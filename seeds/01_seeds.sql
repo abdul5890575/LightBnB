@@ -1,5 +1,5 @@
 INSERT INTO users(name,email,password)
-VALUES ('abdul','abdul@gmail.com','$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u'),
+VALUES ('abdul','abdul@gmail.com','aaa'),
 ('max','max@gmail.com','$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u'),
 ('will','will@gmail.com','$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u');
 
